@@ -1,0 +1,17 @@
+---
+title: "HelloWorld"
+author: "Jules"
+date: "15 April 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+Hello world! 
+How are you doing? I'm just *playing* around with **R markdown**...trying to become a **Data Scientist** :)
+Kind regards and thanks for reviewing!
+
